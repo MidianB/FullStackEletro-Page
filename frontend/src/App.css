@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw !important;
+    height: 100vh;
+    background-color: #EAEDED;
+}
+
+#menu {
+    background-color: rgb(252, 129, 211) !important;
+}
+

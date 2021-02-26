@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#root {
+    background-color:#b17bf8;
+    width:100vw !important;
+    height:100vh;
+}
+
+
